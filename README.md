@@ -9,3 +9,5 @@ Copley, G.; Gibson, E. Cyclic Voltammetry of a Cobaloxime Catalyst raw data. New
 After saving the file, change the file path in line 20 of 'Savitzky-Golay Filter for CV data.py' to your file path. 
 
 Finally, run the 'Bar Charts with MSLE.py' file to obtain the MSLE values for my results. You may change the values in the code to obtain for your specific results (which should be similar).
+
+These scripts were developed for my Master's Thesis in Analytical Chemistry, available on http://d-scholarship.pitt.edu/46030/
