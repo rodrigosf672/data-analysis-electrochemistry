@@ -17,7 +17,7 @@ from scipy.signal import savgol_filter
 import math
 
 # Step 2: Load data from Excel file and extract potentials and currents from columns
-file_path = '/Users/ros114/Downloads/8269661/fc_fc+.xlsx'
+file_path = '/Users/ros114/Downloads/8269661/fc_fc+.xlsx' # save Excel file and change this to file path in your local machine 
 data = pd.read_excel(file_path)
 E = data['E /V']
 I = data['I /uA']
