@@ -35,3 +35,17 @@ This script calculates the **Mean Squared Logarithmic Error (MSLE)** values to a
 Bar Charts with MSLE.py
 ```
 This script creates bar charts with error bars to illustrate the noise resistance of each model based on their MSLE values. You may adjust the values in the code to calculate MSLE for your specific data.
+
+## Additional Script
+
+- **Resistance to Noise - Bar Charts with Errors.py**  
+  This script plots bar charts with error bars to compare the noise resistance of different models based on their MSLE values.
+
+## File Structure
+
+- `Log(Current) vs. Log(Time) Plots.py`: Script for analyzing the impact of different parameters on Log(Current) vs. Log(Time).
+- `Savitzky-Golay Filter for CV data.py`: Script to apply Savitzky-Golay filtering for smoothing CV data.
+- `Bar Charts with MSLE.py`: Script for calculating MSLE values and plotting noise resistance for different models.
+- `Resistance to Noise - Bar Charts with Errors.py`: Script for visualizing MSLE values with error bars for model comparison.
+- `fc_fc+.xlsx`: Data file for CV analysis, sourced from Copley, G.; Gibson, E., Newcastle University, 2019.
+- `LICENSE`: License information for the project.
